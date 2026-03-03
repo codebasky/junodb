@@ -131,7 +131,7 @@ limitations under the License.
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-handler</artifactId>
-			<version>4.1.82.Final</version>
+			<version>4.1.131.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-lang</groupId>
