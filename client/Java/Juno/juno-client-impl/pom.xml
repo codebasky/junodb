@@ -180,7 +180,7 @@ limitations under the License.
 		<dependency>
 			<groupId>io.micrometer</groupId>
 			<artifactId>micrometer-core</artifactId>
-			<version>1.9.4</version>
+			<version>1.17.0</version>
 		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
